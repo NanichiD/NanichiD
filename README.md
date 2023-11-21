@@ -1,6 +1,6 @@
-### 👋 Hi, I’m @NanichiD
-👀 I’m interested in building software solutions for the  people around me.
-🌱 I’m gorwing in my understanding of JavaScript and front-end frameworks.
+### 👋 Hi, I’m @Nanichi
+ I’m interested in building software solutions for the people around me.
+🌱 I’m growing in my understanding of JavaScript and front-end frameworks.
 📫 You can reach out to me through my social media handles and my web portfolio
 
 <!---
